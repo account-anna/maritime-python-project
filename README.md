@@ -3,7 +3,8 @@
 ## Project Overview
 This project aimed to explore the Titanic maritime tragedy with the goal of improving modern ship designs. The focus was on ensuring equal access to emergency exits and equipment for all passengers, regardless of class and age.
 
--Dashboard Preview
+-[Tableau Dashboard](https://public.tableau.com/views/Book1_17361999221650/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ![Dashboard 1](https://github.com/user-attachments/assets/8156f676-6927-49ad-9616-58a4ea89494f)
 
 ## Project Structure
