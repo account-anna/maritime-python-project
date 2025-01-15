@@ -1,4 +1,4 @@
-# Improving Ship Design Based on Titanic Survival Data
+# Improving Ship Design Based on Titanic - Tragedy Survival Data
 
 ## Project Overview
 This project aimed to explore the Titanic maritime tragedy with the goal of improving modern ship designs. The focus was on ensuring equal access to emergency exits and equipment for all passengers, regardless of class and age.
