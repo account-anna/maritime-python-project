@@ -11,6 +11,7 @@ This project aimed to explore the Titanic maritime tragedy with the goal of impr
   - Used the titanic kaggle dataset, loaded into a pandas DataFrame, and stored in a SQLite database using ipython-sql.
 
 - **Data Analysis and Visualization:**
+  - Used Pandas library to categorize passengers into age groups and export the processed DataFrame to an Excel file for use in Tableau visualizations.
   - Created visualizations in Tableau, including survival assessment, age histogram, survival percentage pie chart, survival count and percentage by class, and survival percentage by class and age category.
 
 - **Analysis Approach:**
