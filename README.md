@@ -33,10 +33,6 @@ The analysis revealed significant differences in survival rates among various pa
 - **Emergency Accessibility:**
   - **Finding:** Proximity to lifeboats, clear emergency instructions, and efficient evacuation procedures are critical factors influencing survival rates.
   - **Recommendation:** Prioritize these elements in ship design to improve overall passenger safety.
-
-- **Advanced Techniques and Continuous Improvement:**
-  - **Finding:** Advanced statistical techniques and machine learning can uncover hidden patterns and correlations.
-  - **Recommendation:** Use these techniques along with predictive simulations to test new safety measures and continuously enhance ship design and emergency procedures.
-
+    
 ## Conclusion
 This project provided crucial insights into the factors affecting survival rates on the Titanic. Understanding these factors allows for the design of ships that offer equitable safety provisions for all passengers, regardless of class or age. The findings serve as a foundation for continuous improvements in maritime safety, aiming to prevent future tragedies.
